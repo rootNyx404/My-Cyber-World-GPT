@@ -39,7 +39,7 @@ This assistant helps students, researchers, and cybersecurity enthusiasts learn 
 
 ## 📸 Screenshots
 
-![Preview](screenshots/main.png)
+![Preview](My-Cyber-World-GPT/screenshots/main.png)
 
 ---
 
