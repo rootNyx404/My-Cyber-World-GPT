@@ -16,12 +16,13 @@ sudo apt update && sudo apt upgrade -y
 
 ```
 
- Tools
-Nmap
-Burp Suite
-Metasploit
-Wireshark
-Gobuster
+## Tools
+
+1.Nmap
+2.Burp Suite
+3.Metasploit
+4.Wireshark
+5.Gobuster
 
 
 ---
