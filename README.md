@@ -2,7 +2,7 @@
 
 An AI-powered cybersecurity assistant built using ChatGPT Custom GPT technology.
 
-<img src="assets/banner.png" width="100%">
+<img src="My-Cyber-World-GPT/assets/banner.png" width="100%">
 
 ---
 
