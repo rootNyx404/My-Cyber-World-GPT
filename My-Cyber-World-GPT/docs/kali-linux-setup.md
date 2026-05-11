@@ -13,3 +13,36 @@
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+
+```
+
+ Tools
+Nmap
+Burp Suite
+Metasploit
+Wireshark
+Gobuster
+
+
+---
+
+# 📄 `docs/pentesting-methodology.md`
+
+```md id="i8ibfe"
+# Penetration Testing Methodology
+
+## Phases
+
+1. Reconnaissance
+2. Scanning
+3. Enumeration
+4. Vulnerability Analysis
+5. Exploitation
+6. Post Exploitation
+7. Reporting
+
+## Important Notes
+
+- Always obtain authorization
+- Follow ethical guidelines
+- Document findings professionally
