@@ -36,11 +36,17 @@ This assistant helps students, researchers, and cybersecurity enthusiasts learn 
 - Security project ideas
 
 ---
-
 ## 📸 Screenshots
-![Preview](My-Cyber-World-GPT/screenshots/main1.png) ![Preview](My-Cyber-World-GPT/screenshots/main2.jpg)
-![Preview](My-Cyber-World-GPT/screenshots/main.png)
 
+<div align="center">
+
+<img src="My-Cyber-World-GPT/screenshots/main1.png" width="45%"/> 
+<img src="My-Cyber-World-GPT/screenshots/main2.jpg" width="45%"/>
+
+<br><br>
+
+<img src="My-Cyber-World-GPT/screenshots/main.png" width="90%"/>
+</div>
 ---
 
 ## 🌐 Launch GPT
