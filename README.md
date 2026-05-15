@@ -41,7 +41,7 @@ This assistant helps students, researchers, and cybersecurity enthusiasts learn 
 
 ![Preview](My-Cyber-World-GPT/screenshots/main.png)
 ![Preview](My-Cyber-World-GPT/screenshots/main1.png)
-![Preview](My-Cyber-World-GPT/screenshots/main2.png)
+![Preview](My-Cyber-World-GPT/screenshots/main2.jpg)
 ---
 
 ## 🌐 Launch GPT
